@@ -4,10 +4,7 @@
 
 ## 🧑‍💻 Projeto 
   
- Na aplicação MOBILE onde garçons podem cadastrar novas mesas e seus respectivos pedidos, na WEB o gerenciamento desses pedidos podendo modificar seu status.
- 
- O projeto foi desenvolvido em React(ViteJS) com TypesScript e ReactNative com expo, banco de dados MongoDB e Styled-Components.
-  
+ Na aplicação MOBILE os garçons podem cadastrar novas mesas e seus respectivos pedidos, na WEB o gerenciamento desses pedidos podendo modificar seu status.
 
 <div align="center"> 
   <img src="./github/capa.jpg" alt="waiter app capa" />
@@ -46,6 +43,7 @@ $ npx expo start
 
 ### Front-end 
 * React
+* Vite
 * ReactNative
 * Expo
 * TypesScript
@@ -54,3 +52,7 @@ $ npx expo start
 ### Back-end
 *  Node
 *  MongoDB
+
+### Mobile
+*  React-Native
+*  Expo
