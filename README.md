@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Projeto 
   
-    O WaiterApp é um projeto desenvolvido com o próposito de gerenciar o fluxo de pedidos de um restaurante. O garçom poderá através da aplicação mobile visualizar o menu de produtos e cadastrar o pedido de cada mesa, e então, esses pedidos irão para a versão web, que conta com um dashboard que separa os pedidos por pelos seguintes status: em espera, em preparação e prontos. Dessa forma tornando muito mais fácil a organização e gerenciamento de todas as tarefas.
+   O WaiterApp é um projeto desenvolvido com o próposito de gerenciar o fluxo de pedidos de um restaurante. O garçom poderá através da aplicação mobile visualizar o menu de produtos e cadastrar o pedido de cada mesa, e então, esses pedidos irão para a versão web, que conta com um dashboard que separa os pedidos por pelos seguintes status: em espera, em preparação e prontos. Dessa forma tornando muito mais fácil a organização e gerenciamento de todas as tarefas.
     
 ### 🎨 Layout
 
