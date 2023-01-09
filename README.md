@@ -2,12 +2,6 @@
   <img src="./fe/src/assets/images/logo.svg" alt="waiter app logo" />
 </div>
 
-<p align="center">
-  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-bibliotecas-usadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Read in English</a>
-</p>
-
 ## 🧑‍💻 Projeto 
   
  Na aplicação MOBILE onde garçons podem cadastrar novas mesas e seus respectivos pedidos, na WEB o gerenciamento desses pedidos podendo modificar seu status.
