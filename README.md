@@ -59,3 +59,9 @@ $ npx expo start
 ### Mobile
 *  React-Native
 *  Expo
+
+<hr/>
+
+<p align="center">
+  Feito com ❤️ por <a href="https://github.com/vidaaal">Vinícius Vidal</a>
+</p>
