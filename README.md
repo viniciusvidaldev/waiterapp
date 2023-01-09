@@ -9,18 +9,15 @@
  O projeto foi desenvolvido em React(ViteJS) com TypesScript e ReactNative com expo, banco de dados MongoDB e Styled-Components.
   
 
- ### ✅ Demonstração Mobile 📲
-<p align="center">
-   
-</p>
-
-### ✅ Demonstração WEB 💻
+<div align="center"> 
+  <img src="./github/capa.jpg" alt="waiter app capa" />
+</div>
 
 
 ### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/),[Expo](https://docs.expo.dev/) e/ou [Yarn](https://yarnpkg.com/), [MongoDB](https://www.mongodb.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/),[Expo](https://docs.expo.dev/), [MongoDB](https://www.mongodb.com/)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
