@@ -27,7 +27,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 📗 Installation
 
 # Clone este repositório
-$ git clone https://github.com/HugoNunes87/Waiter-APP.git
+$ git clone https://github.com/vidaaal/waiterapp.git
 
 # Instale as dependências em Server, Mobile e Web
 $ yarn ou npm install
@@ -54,5 +54,3 @@ $ npx expo start
 ### Back-end
 *  Node
 *  MongoDB
-
-<hr/>
